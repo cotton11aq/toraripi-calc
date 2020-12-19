@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotton11aq/toraripi-calc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cotton11aq/toraripi-calc/static/js/main.fc0c4a47.chunk.js",
+    "main.js.map": "/cotton11aq/toraripi-calc/static/js/main.fc0c4a47.chunk.js.map",
+    "runtime-main.js": "/cotton11aq/toraripi-calc/static/js/runtime-main.7b42d380.js",
+    "runtime-main.js.map": "/cotton11aq/toraripi-calc/static/js/runtime-main.7b42d380.js.map",
+    "static/js/2.b0395852.chunk.js": "/cotton11aq/toraripi-calc/static/js/2.b0395852.chunk.js",
+    "static/js/2.b0395852.chunk.js.map": "/cotton11aq/toraripi-calc/static/js/2.b0395852.chunk.js.map",
+    "index.html": "/cotton11aq/toraripi-calc/index.html",
+    "precache-manifest.fd4eefb2690a5409f6325f2b0c50f2c3.js": "/cotton11aq/toraripi-calc/precache-manifest.fd4eefb2690a5409f6325f2b0c50f2c3.js",
+    "service-worker.js": "/cotton11aq/toraripi-calc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cotton11aq/toraripi-calc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b0395852.chunk.js.LICENSE.txt": "/cotton11aq/toraripi-calc/static/js/2.b0395852.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b42d380.js",
+    "static/js/2.b0395852.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fc0c4a47.chunk.js"
+  ]
+}
